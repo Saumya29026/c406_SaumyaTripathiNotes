@@ -6,8 +6,6 @@ Welcome to my repository! This repository contains my notes and solutions for va
 
 You can find my LeetCode profile here: [LeetCode Profile](https://leetcode.com/u/saumya29026/).
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/saumya29026/)
-
 ## About Me
 
 I am a passionate coder who loves solving problems.
